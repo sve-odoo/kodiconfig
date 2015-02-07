@@ -1,0 +1,37 @@
+<advancedsettings>
+  <useddsfanart>true</useddsfanart>
+  <cputempcommand>cputemp</cputempcommand>
+  <gputempcommand>gputemp</gputempcommand>
+  <samba>
+    <clienttimeout>30</clienttimeout>
+  </samba>
+  <network>
+    <disableipv6>true</disableipv6>
+  </network>
+  <video>
+    <excludefromscan>
+      <regexp>@eaDir</regexp>
+      <regexp>@EADIR</regexp>
+    </excludefromscan>
+    <excludefromlisting>
+      <regexp>@eaDir</regexp>
+      <regexp>@EADIR</regexp>
+    </excludefromlisting>
+  </video>
+  <audio>
+    <excludefromscan>
+      <regexp>@eaDir</regexp>
+      <regexp>@EADIR</regexp>
+    </excludefromscan>
+    <excludefromlisting>
+      <regexp>@eaDir</regexp>
+      <regexp>@EADIR</regexp>
+    </excludefromlisting>
+  </audio>
+  <pictureexcludes>
+    <regexp>@eaDir</regexp>
+    <regexp>@EADIR</regexp>
+  </pictureexcludes>
+<cachemembuffersize>50000000</cachemembuffersize>
+<readbufferfactor>10</readbufferfactor>
+</advancedsettings>
