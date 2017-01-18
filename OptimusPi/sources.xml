@@ -11,17 +11,17 @@
         </source>
         <source>
             <name>Films Fr</name>
-            <path pathversion="1">nfs://192.168.0.5/volume1/Films/</path>
+            <path pathversion="1">nfs://192.168.0.5/volume2/Films/</path>
             <allowsharing>true</allowsharing>
         </source>
         <source>
             <name>Movies</name>
-            <path pathversion="1">nfs://192.168.0.5/volume1/Movies/</path>
+            <path pathversion="1">nfs://192.168.0.5/volume2/Movies/</path>
             <allowsharing>true</allowsharing>
         </source>
         <source>
             <name>Séries</name>
-            <path pathversion="1">nfs://192.168.0.5/volume1/Séries/</path>
+            <path pathversion="1">nfs://192.168.0.5/volume2/Séries/</path>
             <allowsharing>true</allowsharing>
         </source>
     </video>
@@ -29,7 +29,7 @@
         <default pathversion="1"></default>
         <source>
             <name>Music</name>
-            <path pathversion="1">nfs://192.168.0.5/volume1/Music/</path>
+            <path pathversion="1">nfs://192.168.0.5/volume2/Music/</path>
             <allowsharing>true</allowsharing>
         </source>
     </music>
@@ -37,7 +37,7 @@
         <default pathversion="1"></default>
         <source>
             <name>Pictures</name>
-            <path pathversion="1">nfs://192.168.0.5/volume1/Pictures/</path>
+            <path pathversion="1">nfs://192.168.0.5/volume2/Pictures/</path>
             <allowsharing>true</allowsharing>
         </source>
     </pictures>
